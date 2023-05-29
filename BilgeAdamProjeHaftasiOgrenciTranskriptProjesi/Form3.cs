@@ -46,7 +46,7 @@ namespace BilgeAdamProjeHaftasiOgrenciTranskriptProjesi
             {
                 Ogrenci.OgrenciListesi.Add(item);
             }           
-            
+            //tamamlanmadi
         }
     }
 }
